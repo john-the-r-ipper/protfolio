@@ -1,3 +1,4 @@
+```markdown
 # 🌐 HTML Portfolio Website
 
 A simple and responsive personal portfolio website built using pure HTML.
@@ -19,4 +20,8 @@ This project is perfect for beginners who want to create a clean and professiona
 
 ## 📁 Project Structure
 
+portfolio/
+│
+├── index.html
+└── README.md
 
